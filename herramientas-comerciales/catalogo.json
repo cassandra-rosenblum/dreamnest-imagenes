@@ -196,6 +196,68 @@
    "aviso": null
   },
   {
+   "id": "presentacion-colaboradores-es",
+   "categoria": "presentaciones",
+   "titulo": "Presentación para colaboradores",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "La presentación de Dream Nest para inmobiliarias y profesionales que quieren colaborar con nosotras, en PDF y en vídeo.",
+   "para_que": "Explicar a un colaborador nuevo cómo trabajamos juntos.",
+   "cuando": "Después del primer contacto con un agente o una inmobiliaria.",
+   "portada": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-colaboradores-es.jpg",
+   "enlace": null,
+   "aviso": null,
+   "alojado_en": "CRM (app-clientes/media)",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-colaboradores-es.pdf",
+     "peso_mb": null
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-colaboradores-es.mp4",
+     "peso_mb": null
+    }
+   ]
+  },
+  {
+   "id": "presentacion-colaboradores-en",
+   "categoria": "presentaciones",
+   "titulo": "Partner presentation",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "La presentación de Dream Nest para inmobiliarias y profesionales que quieren colaborar con nosotras, en PDF y en vídeo.",
+   "para_que": "Explicar a un colaborador nuevo cómo trabajamos juntos.",
+   "cuando": "Después del primer contacto con un agente o una inmobiliaria.",
+   "portada": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-partners-en.jpg",
+   "enlace": null,
+   "aviso": null,
+   "alojado_en": "CRM (app-clientes/media)",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-partners-en.pdf",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-partners-en.mp4",
+     "peso_mb": null
+    }
+   ]
+  },
+  {
    "id": "video-20min-en",
    "categoria": "videos",
    "titulo": "Spain, Without the Surprises · vídeo narrado",

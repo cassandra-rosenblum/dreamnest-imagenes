@@ -38,6 +38,11 @@
    "id": "bancos",
    "nombre": "Formularios de bancos",
    "audiencia": "interna"
+  },
+  {
+   "id": "equipo",
+   "nombre": "Manual y formación",
+   "audiencia": "interna"
   }
  ],
  "herramientas": [
@@ -765,6 +770,115 @@
      "peso_mb": 12.8
     }
    ]
+  },
+  {
+   "id": "reels-musica",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "titulo": "Reels con música para clientes y colaboradores",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "8 reels verticales cortos con música: 2 para clientes (antes de empezar, la app) y 2 para colaboradores (errores comunes, la operación), en español e inglés.",
+   "para_que": "Mandar por WhatsApp o subir a redes para explicar algo en segundos.",
+   "cuando": "Primer contacto con un cliente o un colaborador.",
+   "portada": null,
+   "enlace": null,
+   "aviso": null,
+   "alojado_en": "CRM (manual/reels)",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Clientes · antes de empezar",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_cliente-antes_es_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Clientes · antes de empezar",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_cliente-antes_en_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Clientes · la app",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_cliente-app_es_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Clientes · la app",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_cliente-app_en_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Colaboradores · errores comunes",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-errores_es_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Colaboradores · errores comunes",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-errores_en_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Colaboradores · la operación",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-operacion_es_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Colaboradores · la operación",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-operacion_en_musica.mp4",
+     "peso_mb": null
+    }
+   ]
+  },
+  {
+   "id": "web-simulador-hipoteca-alquiler",
+   "categoria": "web",
+   "audiencia": "externa",
+   "titulo": "Simulador «Hipoteca vs alquiler» para promociones",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "Simulador que compara lo que costaría comprar una vivienda de una promoción con lo que se paga de alquiler.",
+   "para_que": "Trabajar con inmobiliarias y promotoras: enseñar al comprador si comprar tiene sentido frente a alquilar.",
+   "cuando": "Con agencias y promotoras, para una promoción concreta.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-simulador-hipoteca-alquiler.jpg",
+   "enlace": "https://dream-nest-simulator.vercel.app/",
+   "descargas": [],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: muestra cuota mensual y compara con el alquiler."
+  },
+  {
+   "id": "manual-equipo",
+   "categoria": "equipo",
+   "audiencia": "interna",
+   "titulo": "Manual del CRM y vídeos de formación",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "El manual del sistema de Dream Nest con vídeos de formación, zona por zona.",
+   "para_que": "Aprender a usar el CRM o resolver una duda sin preguntar.",
+   "cuando": "Siempre que haga falta; se actualiza cada lunes.",
+   "portada": null,
+   "enlace": "https://app.dreamnestspain.com/manual.html",
+   "descargas": [],
+   "aviso": null,
+   "alojado_en": "CRM"
   }
  ]
 }

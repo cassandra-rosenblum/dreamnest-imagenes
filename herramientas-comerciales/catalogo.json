@@ -5,6 +5,11 @@
  "base_archivos": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/",
  "categorias": [
   {
+   "id": "regalos",
+   "nombre": "Regalos para contactos",
+   "audiencia": "externa"
+  },
+  {
    "id": "presentaciones",
    "nombre": "Presentaciones",
    "audiencia": "externa"
@@ -27,6 +32,11 @@
   {
    "id": "web",
    "nombre": "Para compartir por enlace",
+   "audiencia": "externa"
+  },
+  {
+   "id": "redes",
+   "nombre": "Nuestras redes",
    "audiencia": "externa"
   },
   {
@@ -53,16 +63,23 @@
    "idiomas": [
     "EN"
    ],
-   "que_es": "La charla de 20 minutos para agentes inmobiliarios de EE. UU. (Tampa Summit, oct 2026). 20 diapositivas, un clic por diapositiva, con el vídeo de España al final y el QR del regalo.",
+   "que_es": "La charla de 20 minutos para agentes inmobiliarios de EE. UU. (Tampa Summit, oct 2026). 20 diapositivas, un clic por diapositiva, con el vídeo de España al final y el QR del regalo (dreamnestspain.com/regalo).",
    "para_que": "Presentar Dream Nest a agentes y brokers: por qué España, en qué se diferencia el proceso, un ejemplo de números, errores comunes y cómo trabajamos con ellos.",
    "cuando": "Eventos, webinars y reuniones con inmobiliarias. El PDF es para mandarlo después por email o WhatsApp.",
    "descargas": [
     {
      "idioma": "EN",
      "formato": "PPTX",
-     "etiqueta": "PowerPoint (con vídeo)",
+     "etiqueta": "PowerPoint (con vídeo de España)",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_EN.pptx",
      "peso_mb": 56.8
+    },
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint sin vídeo (ligero, 18 diapositivas)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_EN_sin_video.pptx",
+     "peso_mb": 4.3
     },
     {
      "idioma": "EN",
@@ -91,9 +108,16 @@
     {
      "idioma": "ES",
      "formato": "PPTX",
-     "etiqueta": "PowerPoint (con vídeo)",
+     "etiqueta": "PowerPoint (con vídeo de España)",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_ES.pptx",
      "peso_mb": 57.0
+    },
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint sin vídeo (ligero, 18 diapositivas)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_ES_sin_video.pptx",
+     "peso_mb": 4.5
     },
     {
      "idioma": "ES",
@@ -474,18 +498,61 @@
   },
   {
    "id": "web-regalo",
-   "categoria": "web",
-   "titulo": "El regalo · página del QR",
+   "categoria": "regalos",
+   "titulo": "El regalo de Dream Nest · «un viaje por España»",
    "idiomas": [
     "EN",
     "ES"
    ],
-   "que_es": "Página donde dejan nombre y email y reciben por correo el mapa de España, el vídeo de la charla y el folleto.",
-   "para_que": "Captar contactos de eventos y de redes.",
-   "cuando": "Mandarla a cualquier contacto nuevo de un evento.",
+   "que_es": "Lo que reciben los contactos de eventos y redes: dejan nombre y email en dreamnestspain.com/regalo y les llega un email tipo tarjeta de embarque con el mapa interactivo de España, el vídeo de la presentación y el folleto.",
+   "para_que": "Captar contactos con algo útil y bonito, sin pedirles nada más que el nombre y el email.",
+   "cuando": "Después de cualquier charla, stand o conversación. También se pueden mandar las piezas sueltas con los botones de descarga.",
    "enlace": "https://dreamnestspain.com/regalo",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-regalo.jpg",
-   "descargas": [],
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo de la presentación",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_video_EN.mp4",
+     "peso_mb": 56.3
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo de la presentación",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_video_ES.mp4",
+     "peso_mb": 57.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "Folleto",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-en.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "Folleto",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-es.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "EN",
+     "formato": "PNG",
+     "etiqueta": "QR del regalo (imagen)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/QR_regalo_EN.png",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "ES",
+     "formato": "PNG",
+     "etiqueta": "QR del regalo (imagen)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/QR_regalo_ES.png",
+     "peso_mb": 0.1
+    }
+   ],
    "aviso": null,
    "audiencia": "externa"
   },
@@ -879,6 +946,115 @@
    "descargas": [],
    "aviso": null,
    "alojado_en": "CRM"
+  },
+  {
+   "id": "video-research-es",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "titulo": "International Buyer Report · vídeo con Cassandra",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "Cassandra presenta el informe gratuito para compradores internacionales.",
+   "para_que": "Llevar al comprador al informe y al primer contacto.",
+   "cuando": "Compradores que se están informando.",
+   "portada": null,
+   "enlace": "https://dreamnestspain.com/research",
+   "aviso": null,
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://dreamnestspain.com/assets/social/2026-10-21-research-es.mp4",
+     "peso_mb": 47.0
+    }
+   ]
+  },
+  {
+   "id": "red-instagram",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "Instagram · @dreamnestspain",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "El día a día de Dream Nest y de Cassandra.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://instagram.com/dreamnestspain",
+   "descargas": [],
+   "aviso": null
+  },
+  {
+   "id": "red-youtube",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "YouTube · Dream Nest Spain",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "El canal de vídeos de Dream Nest.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://www.youtube.com/@DreamNestSpain",
+   "descargas": [],
+   "aviso": null
+  },
+  {
+   "id": "red-facebook",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "Facebook · Dream Nest Spain",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "La página de Facebook de Dream Nest.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://www.facebook.com/profile.php?id=61583160852641",
+   "descargas": [],
+   "aviso": null
+  },
+  {
+   "id": "red-linkedin-empresa",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "LinkedIn · Dream Nest Spain",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "La página de empresa en LinkedIn, para profesionales.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://www.linkedin.com/company/dreamnestspain",
+   "descargas": [],
+   "aviso": null
+  },
+  {
+   "id": "red-linkedin-cassandra",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "LinkedIn · Cassandra Lyn Rosenblum",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "El perfil de Cassandra en LinkedIn.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://linkedin.com/in/cassandra-rosenblum-7a96b6138/",
+   "descargas": [],
+   "aviso": null
   }
  ]
 }

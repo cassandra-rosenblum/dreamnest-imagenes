@@ -728,28 +728,28 @@
    "aviso": null,
    "descargas": [
     {
-     "idioma": "EN",
+     "idioma": "ES",
      "formato": "PDF",
      "etiqueta": "Abanca · solicitud",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/ABANCA_RELLENABLE.pdf",
      "peso_mb": 0.1
     },
     {
-     "idioma": "EN",
+     "idioma": "ES",
      "formato": "PDF",
      "etiqueta": "Abanca · otras operaciones",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/Solicitud_Abanca_Otras_Ops_RELLENABLE.pdf",
      "peso_mb": 0.5
     },
     {
-     "idioma": "EN",
+     "idioma": "ES",
      "formato": "PDF",
      "etiqueta": "CaixaBank · anexo 2",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/CaixaBank_Anexo2_RELLENABLE.pdf",
      "peso_mb": 0.0
     },
     {
-     "idioma": "EN",
+     "idioma": "ES",
      "formato": "PDF",
      "etiqueta": "Sabadell · ES",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/Sabadell_ES_RELLENABLE.pdf",

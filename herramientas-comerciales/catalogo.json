@@ -17,6 +17,10 @@
    "nombre": "Folletos"
   },
   {
+   "id": "juegos",
+   "nombre": "Juegos para eventos"
+  },
+  {
    "id": "web",
    "nombre": "Para compartir por enlace"
   },
@@ -572,6 +576,36 @@
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/tarjetas-ponente.jpg",
    "enlace": null,
+   "aviso": null
+  },
+  {
+   "id": "juego-expect-the-unexpected",
+   "categoria": "juegos",
+   "titulo": "Expect the Unexpected · juego en directo",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "Juego en directo para la sala: el público responde desde el móvil preguntas sobre comprar en España siendo extranjero.",
+   "para_que": "Romper el hielo en una charla y enseñar diferencias reales sin dar una clase.",
+   "cuando": "Eventos y formaciones con agentes internacionales.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/juego-expect-the-unexpected.jpg",
+   "enlace": "https://dreamnestspain.com/games/live?pack=internacional",
+   "descargas": [],
+   "aviso": null
+  },
+  {
+   "id": "juego-myth-or-fact",
+   "categoria": "juegos",
+   "titulo": "Myth or Fact: Spain Edition",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "Juego de mito o realidad sobre comprar y financiar en España, usado en Orlando.",
+   "para_que": "Hacer participar a la sala y desmontar ideas falsas.",
+   "cuando": "Charlas cortas con agentes de EE. UU.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/juego-myth-or-fact.jpg",
+   "enlace": "https://dreamnestspain.com/orlando/game",
+   "descargas": [],
    "aviso": null
   }
  ]

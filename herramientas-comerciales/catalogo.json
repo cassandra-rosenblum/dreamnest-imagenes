@@ -1,32 +1,43 @@
 {
  "version": 1,
  "actualizado": "2026-11-03",
- "descripcion": "Biblioteca de herramientas comerciales de Dream Nest. La lee el CRM (sección Herramientas). Fuente: Impulsa. Solo se añaden cosas; nunca se renombra ni se borra un archivo ya publicado.",
+ "descripcion": "Biblioteca de herramientas comerciales de Dream Nest. La lee el CRM (sección Herramientas). Fuente: Impulsa. Solo se añaden cosas; nunca se renombra ni se borra un archivo ya publicado. Cada herramienta lleva «audiencia»: «externa» (para mandar a clientes y colaboradores) o «interna» (solo para el equipo). Se muestran por separado y nunca se mezclan.",
  "base_archivos": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/",
  "categorias": [
   {
    "id": "presentaciones",
-   "nombre": "Presentaciones"
+   "nombre": "Presentaciones",
+   "audiencia": "externa"
   },
   {
    "id": "videos",
-   "nombre": "Vídeos"
+   "nombre": "Vídeos",
+   "audiencia": "externa"
   },
   {
    "id": "folletos",
-   "nombre": "Folletos"
+   "nombre": "Folletos",
+   "audiencia": "externa"
   },
   {
    "id": "juegos",
-   "nombre": "Juegos para eventos"
+   "nombre": "Juegos para eventos",
+   "audiencia": "externa"
   },
   {
    "id": "web",
-   "nombre": "Para compartir por enlace"
+   "nombre": "Para compartir por enlace",
+   "audiencia": "externa"
   },
   {
    "id": "ponente",
-   "nombre": "Para la ponente"
+   "nombre": "Para la ponente",
+   "audiencia": "interna"
+  },
+  {
+   "id": "bancos",
+   "nombre": "Formularios de bancos",
+   "audiencia": "interna"
   }
  ],
  "herramientas": [
@@ -58,7 +69,8 @@
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-20min-en.jpg",
-   "enlace": null
+   "enlace": null,
+   "audiencia": "externa"
   },
   {
    "id": "presentacion-20min-es",
@@ -88,7 +100,8 @@
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-20min-es.jpg",
-   "enlace": null
+   "enlace": null,
+   "audiencia": "externa"
   },
   {
    "id": "presentacion-larga-en",
@@ -118,7 +131,8 @@
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-larga-en.jpg",
-   "enlace": null
+   "enlace": null,
+   "audiencia": "externa"
   },
   {
    "id": "presentacion-larga-es",
@@ -148,7 +162,8 @@
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-larga-es.jpg",
-   "enlace": null
+   "enlace": null,
+   "audiencia": "externa"
   },
   {
    "id": "diapositiva-qr-regalo",
@@ -193,7 +208,8 @@
     }
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/diapositiva-qr-regalo.jpg",
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "presentacion-colaboradores-es",
@@ -224,7 +240,8 @@
      "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-colaboradores-es.mp4",
      "peso_mb": null
     }
-   ]
+   ],
+   "audiencia": "externa"
   },
   {
    "id": "presentacion-colaboradores-en",
@@ -255,7 +272,8 @@
      "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-partners-en.mp4",
      "peso_mb": null
     }
-   ]
+   ],
+   "audiencia": "externa"
   },
   {
    "id": "video-20min-en",
@@ -278,7 +296,8 @@
     }
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
-   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-20min-en.jpg"
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-20min-en.jpg",
+   "audiencia": "externa"
   },
   {
    "id": "video-20min-es",
@@ -301,7 +320,8 @@
     }
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
-   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-20min-es.jpg"
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-20min-es.jpg",
+   "audiencia": "externa"
   },
   {
    "id": "video-presentadora-en",
@@ -324,7 +344,8 @@
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-presentadora-en.jpg",
-   "enlace": null
+   "enlace": null,
+   "audiencia": "externa"
   },
   {
    "id": "video-presentadora-es",
@@ -347,7 +368,8 @@
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-presentadora-es.jpg",
-   "enlace": null
+   "enlace": null,
+   "audiencia": "externa"
   },
   {
    "id": "video-espana-2-minutos",
@@ -370,7 +392,8 @@
     }
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-espana-2-minutos.jpg",
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "folleto-servicios",
@@ -441,7 +464,8 @@
     }
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/folleto-servicios.jpg",
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "web-regalo",
@@ -457,7 +481,8 @@
    "enlace": "https://dreamnestspain.com/regalo",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-regalo.jpg",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "web-spain-explorer",
@@ -472,7 +497,8 @@
    "enlace": "https://dreamnestspain.com/spain-explorer",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-spain-explorer.jpg",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "web-errores-comunes",
@@ -487,7 +513,8 @@
    "enlace": "https://dreamnestspain.com/common-mistakes",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-errores-comunes.jpg",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "web-juegos",
@@ -502,7 +529,8 @@
    "enlace": "https://dreamnestspain.com/games",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-juegos.jpg",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "web-international-buyer-report",
@@ -517,7 +545,8 @@
    "enlace": "https://dreamnestspain.com/research",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-international-buyer-report.jpg",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "web-costes-compra",
@@ -532,7 +561,8 @@
    "enlace": "https://dreamnestspain.com/buying-costs-spain",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-costes-compra.jpg",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "web-como-funciona",
@@ -547,7 +577,8 @@
    "enlace": "https://dreamnestspain.com/how-it-works",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-como-funciona.jpg",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "web-formulario",
@@ -562,7 +593,8 @@
    "enlace": "https://form.dreamnestspain.com",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-formulario.jpg",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "guiones-ponente",
@@ -607,7 +639,8 @@
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/guiones-ponente.jpg",
    "enlace": null,
-   "aviso": null
+   "aviso": null,
+   "audiencia": "interna"
   },
   {
    "id": "tarjetas-ponente",
@@ -638,7 +671,8 @@
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/tarjetas-ponente.jpg",
    "enlace": null,
-   "aviso": null
+   "aviso": null,
+   "audiencia": "interna"
   },
   {
    "id": "juego-expect-the-unexpected",
@@ -653,7 +687,8 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/juego-expect-the-unexpected.jpg",
    "enlace": "https://dreamnestspain.com/games/live?pack=internacional",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
   },
   {
    "id": "juego-myth-or-fact",
@@ -668,7 +703,68 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/juego-myth-or-fact.jpg",
    "enlace": "https://dreamnestspain.com/orlando/game",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "audiencia": "externa"
+  },
+  {
+   "id": "formularios-bancos",
+   "categoria": "bancos",
+   "audiencia": "interna",
+   "titulo": "Formularios de bancos rellenables",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "Los formularios de solicitud de los bancos en PDF rellenable.",
+   "para_que": "Preparar la documentación del cliente para cada banco sin volver a pedirla.",
+   "cuando": "Al presentar un caso a ese banco.",
+   "portada": null,
+   "enlace": null,
+   "aviso": null,
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "Abanca · solicitud",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/ABANCA_RELLENABLE.pdf",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "Abanca · otras operaciones",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/Solicitud_Abanca_Otras_Ops_RELLENABLE.pdf",
+     "peso_mb": 0.5
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "CaixaBank · anexo 2",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/CaixaBank_Anexo2_RELLENABLE.pdf",
+     "peso_mb": 0.0
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "Sabadell · ES",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/Sabadell_ES_RELLENABLE.pdf",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "Sabadell · EN",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/Sabadell_EN_RELLENABLE.pdf",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "MAF · inglés",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/MAF%20ingles.pdf%20editable%20%28007%29.pdf",
+     "peso_mb": 12.8
+    }
+   ]
   }
  ]
 }

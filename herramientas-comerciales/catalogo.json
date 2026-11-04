@@ -57,6 +57,68 @@
  ],
  "herramientas": [
   {
+   "id": "presentacion-compradores-en",
+   "categoria": "presentaciones",
+   "audiencia": "externa",
+   "titulo": "Buying in Spain, Without the Surprises · for buyers",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "Presentación para compradores internacionales (15 diapositivas): por qué España, vivir o tener, cómo funciona la compra con hipoteca, los números reales de un ejemplo, errores comunes y lo que hacemos por ellos. Termina con el vídeo de España y el QR para empezar su proyecto.",
+   "para_que": "Explicar a un comprador, en una charla o una videollamada, cómo es de verdad comprar en España con hipoteca antes de comprometerse.",
+   "cuando": "Charlas para compradores, webinars y primeras videollamadas. El PDF es para mandarlo después.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-compradores-en.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint (con vídeo de España)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_EN.pptx",
+     "peso_mb": 56.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF ligero",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_EN.pdf",
+     "peso_mb": 2.0
+    }
+   ]
+  },
+  {
+   "id": "presentacion-compradores-es",
+   "categoria": "presentaciones",
+   "audiencia": "externa",
+   "titulo": "España, sin sorpresas · para compradores",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "La presentación para compradores en español, tratando de tú (15 diapositivas), con el vídeo de España y el QR para empezar su proyecto.",
+   "para_que": "Lo mismo que la inglesa, para compradores hispanohablantes.",
+   "cuando": "Charlas, webinars y primeras videollamadas en español.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-compradores-es.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint (con vídeo de España)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_ES.pptx",
+     "peso_mb": 56.2
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF ligero",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_ES.pdf",
+     "peso_mb": 2.0
+    }
+   ]
+  },
+  {
    "id": "presentacion-20min-en",
    "categoria": "presentaciones",
    "titulo": "Spain, Without the Surprises · 20 min",

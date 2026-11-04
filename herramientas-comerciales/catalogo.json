@@ -148,14 +148,14 @@
      "formato": "PPTX",
      "etiqueta": "PowerPoint",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Orlando_Spain_Without_the_Surprises_EN.pptx",
-     "peso_mb": 9.8
+     "peso_mb": 9.9
     },
     {
      "idioma": "EN",
      "formato": "PDF",
      "etiqueta": "PDF",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Orlando_Spain_Without_the_Surprises_EN.pdf",
-     "peso_mb": 8.6
+     "peso_mb": 8.7
     }
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
@@ -345,7 +345,7 @@
      "formato": "MP4",
      "etiqueta": "Vídeo MP4",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_video_ES.mp4",
-     "peso_mb": 57.1
+     "peso_mb": 57.0
     }
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
@@ -522,7 +522,7 @@
      "formato": "MP4",
      "etiqueta": "Vídeo de la presentación",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_video_ES.mp4",
-     "peso_mb": 57.1
+     "peso_mb": 57.0
     },
     {
      "idioma": "EN",
@@ -1055,6 +1055,30 @@
    "enlace": "https://linkedin.com/in/cassandra-rosenblum-7a96b6138/",
    "descargas": [],
    "aviso": null
+  },
+  {
+   "id": "kit-de-marca",
+   "categoria": "equipo",
+   "audiencia": "interna",
+   "titulo": "Kit de marca Dream Nest 2026-2027",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "Colores, tipografías, logos y tono de Dream Nest.",
+   "para_que": "Que todo lo que hagamos (emails, presentaciones, redes) se vea igual.",
+   "cuando": "Antes de preparar cualquier material.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/kit-de-marca.jpg",
+   "enlace": null,
+   "aviso": null,
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Signature_Brand_Kit_2026_2027.pdf",
+     "peso_mb": 0.3
+    }
+   ]
   }
  ]
 }

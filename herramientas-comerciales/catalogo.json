@@ -76,7 +76,7 @@
      "formato": "PPTX",
      "etiqueta": "PowerPoint (con vídeo de España)",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_EN.pptx",
-     "peso_mb": 56.1
+     "peso_mb": 71.1
     },
     {
      "idioma": "EN",
@@ -107,7 +107,7 @@
      "formato": "PPTX",
      "etiqueta": "PowerPoint (con vídeo de España)",
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_ES.pptx",
-     "peso_mb": 56.2
+     "peso_mb": 71.3
     },
     {
      "idioma": "ES",
@@ -365,6 +365,54 @@
     }
    ],
    "audiencia": "externa"
+  },
+  {
+   "id": "video-compradores-en",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "titulo": "Buying in Spain, Without the Surprises · vídeo para compradores",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "La presentación para compradores convertida en vídeo de 8 minutos: conversación entre la voz de Dream Nest y un comprador, con el vídeo nuevo de España al final.",
+   "para_que": "Que un comprador entienda cómo es de verdad comprar en España con hipoteca antes de la primera llamada.",
+   "cuando": "Al primer contacto con un comprador, o después de una charla. Mejor mandar el enlace que el archivo.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-compradores-en.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_video_EN.mp4",
+     "peso_mb": 38.5
+    }
+   ]
+  },
+  {
+   "id": "video-compradores-es",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "titulo": "España, sin sorpresas · vídeo para compradores",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "El vídeo para compradores en español (8 minutos), en formato conversación y tratando de tú.",
+   "para_que": "Lo mismo que el inglés, para compradores hispanohablantes.",
+   "cuando": "Al primer contacto con un comprador hispanohablante.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-compradores-es.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_video_ES.mp4",
+     "peso_mb": 37.4
+    }
+   ]
   },
   {
    "id": "video-20min-en",

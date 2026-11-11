@@ -1,7 +1,7 @@
 {
  "version": 1,
  "actualizado": "2026-11-03",
- "descripcion": "Biblioteca de herramientas comerciales de Dream Nest. La lee el CRM (sección Herramientas). Fuente: Impulsa. Solo se añaden cosas; nunca se renombra ni se borra un archivo ya publicado. Cada herramienta lleva «audiencia»: «externa» (para mandar a clientes y colaboradores) o «interna» (solo para el equipo). Se muestran por separado y nunca se mezclan.",
+ "descripcion": "Biblioteca de herramientas comerciales de Dream Nest. La lee el CRM (sección Herramientas). Fuente: Impulsa. Solo se añaden cosas; nunca se renombra ni se borra un archivo ya publicado. Cada herramienta lleva «audiencia»: «externa» (para mandar a clientes y colaboradores) o «interna» (solo para el equipo). Se muestran por separado y nunca se mezclan. Cada herramienta lleva «publico»: a quién va dirigida (lista de ids de «publicos»). Se muestra como etiqueta en cada tarjeta y sirve para filtrar.",
  "base_archivos": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/",
  "categorias": [
   {
@@ -85,6 +85,10 @@
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_EN.pdf",
      "peso_mb": 2.0
     }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "clientes-eeuu"
    ]
   },
   {
@@ -116,6 +120,10 @@
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_ES.pdf",
      "peso_mb": 2.0
     }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "clientes-eeuu"
    ]
   },
   {
@@ -176,6 +184,9 @@
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Diapositiva_cuatro_ciudades_EN.png",
      "peso_mb": 0.8
     }
+   ],
+   "publico": [
+    "clientes-eeuu"
    ]
   },
   {
@@ -214,7 +225,10 @@
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-20min-en.jpg",
    "enlace": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "presentacion-20min-es",
@@ -252,7 +266,10 @@
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-20min-es.jpg",
    "enlace": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "presentacion-larga-en",
@@ -283,7 +300,10 @@
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-larga-en.jpg",
    "enlace": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "presentacion-larga-es",
@@ -314,7 +334,10 @@
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-larga-es.jpg",
    "enlace": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "diapositiva-qr-regalo",
@@ -360,7 +383,11 @@
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/diapositiva-qr-regalo.jpg",
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu",
+    "clientes-eeuu"
+   ]
   },
   {
    "id": "presentacion-colaboradores-es",
@@ -392,7 +419,11 @@
      "peso_mb": null
     }
    ],
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "colaboradores",
+    "inmobiliarias-espana"
+   ]
   },
   {
    "id": "presentacion-colaboradores-en",
@@ -424,7 +455,10 @@
      "peso_mb": null
     }
    ],
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "colaboradores"
+   ]
   },
   {
    "id": "video-compradores-en",
@@ -448,6 +482,10 @@
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_video_EN.mp4",
      "peso_mb": 38.5
     }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "clientes-eeuu"
    ]
   },
   {
@@ -472,6 +510,10 @@
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_video_ES.mp4",
      "peso_mb": 37.4
     }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "clientes-eeuu"
    ]
   },
   {
@@ -496,7 +538,10 @@
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-20min-en.jpg",
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "video-20min-es",
@@ -520,7 +565,10 @@
    ],
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-20min-es.jpg",
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "video-presentadora-en",
@@ -544,7 +592,10 @@
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-presentadora-en.jpg",
    "enlace": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "video-presentadora-es",
@@ -568,7 +619,10 @@
    "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-presentadora-es.jpg",
    "enlace": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "video-espana-2-minutos",
@@ -592,7 +646,10 @@
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-espana-2-minutos.jpg",
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "todos"
+   ]
   },
   {
    "id": "folleto-servicios",
@@ -664,7 +721,11 @@
    ],
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/folleto-servicios.jpg",
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales",
+    "colaboradores"
+   ]
   },
   {
    "id": "web-regalo",
@@ -724,7 +785,11 @@
     }
    ],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu",
+    "clientes-eeuu"
+   ]
   },
   {
    "id": "web-spain-explorer",
@@ -740,7 +805,10 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-spain-explorer.jpg",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "todos"
+   ]
   },
   {
    "id": "web-errores-comunes",
@@ -756,7 +824,12 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-errores-comunes.jpg",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "colaboradores",
+    "realtors-eeuu",
+    "inmobiliarias-espana"
+   ]
   },
   {
    "id": "web-juegos",
@@ -772,7 +845,11 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-juegos.jpg",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "colaboradores",
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "web-international-buyer-report",
@@ -788,7 +865,10 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-international-buyer-report.jpg",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales"
+   ]
   },
   {
    "id": "web-costes-compra",
@@ -804,7 +884,10 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-costes-compra.jpg",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales"
+   ]
   },
   {
    "id": "web-como-funciona",
@@ -820,7 +903,10 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-como-funciona.jpg",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales"
+   ]
   },
   {
    "id": "web-formulario",
@@ -836,7 +922,10 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-formulario.jpg",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales"
+   ]
   },
   {
    "id": "guiones-ponente",
@@ -882,7 +971,10 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/guiones-ponente.jpg",
    "enlace": null,
    "aviso": null,
-   "audiencia": "interna"
+   "audiencia": "interna",
+   "publico": [
+    "equipo"
+   ]
   },
   {
    "id": "tarjetas-ponente",
@@ -914,7 +1006,10 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/tarjetas-ponente.jpg",
    "enlace": null,
    "aviso": null,
-   "audiencia": "interna"
+   "audiencia": "interna",
+   "publico": [
+    "equipo"
+   ]
   },
   {
    "id": "juego-expect-the-unexpected",
@@ -930,7 +1025,11 @@
    "enlace": "https://dreamnestspain.com/games/live?pack=internacional",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu",
+    "colaboradores"
+   ]
   },
   {
    "id": "juego-myth-or-fact",
@@ -946,7 +1045,10 @@
    "enlace": "https://dreamnestspain.com/orlando/game",
    "descargas": [],
    "aviso": null,
-   "audiencia": "externa"
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
   },
   {
    "id": "formularios-bancos",
@@ -1006,6 +1108,9 @@
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/MAF%20ingles.pdf%20editable%20%28007%29.pdf",
      "peso_mb": 12.8
     }
+   ],
+   "publico": [
+    "equipo"
    ]
   },
   {
@@ -1081,6 +1186,10 @@
      "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-operacion_en_musica.mp4",
      "peso_mb": null
     }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "colaboradores"
    ]
   },
   {
@@ -1097,7 +1206,11 @@
    "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-simulador-hipoteca-alquiler.jpg",
    "enlace": "https://dream-nest-simulator.vercel.app/",
    "descargas": [],
-   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: muestra cuota mensual y compara con el alquiler."
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: muestra cuota mensual y compara con el alquiler.",
+   "publico": [
+    "promotoras",
+    "inmobiliarias-espana"
+   ]
   },
   {
    "id": "manual-equipo",
@@ -1115,7 +1228,10 @@
    "enlace": "https://app.dreamnestspain.com/manual.html",
    "descargas": [],
    "aviso": null,
-   "alojado_en": "CRM"
+   "alojado_en": "CRM",
+   "publico": [
+    "equipo"
+   ]
   },
   {
    "id": "video-research-es",
@@ -1139,6 +1255,9 @@
      "url": "https://dreamnestspain.com/assets/social/2026-10-21-research-es.mp4",
      "peso_mb": 47.0
     }
+   ],
+   "publico": [
+    "clientes-internacionales"
    ]
   },
   {
@@ -1156,7 +1275,10 @@
    "portada": null,
    "enlace": "https://instagram.com/dreamnestspain",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "publico": [
+    "todos"
+   ]
   },
   {
    "id": "red-youtube",
@@ -1173,7 +1295,10 @@
    "portada": null,
    "enlace": "https://www.youtube.com/@DreamNestSpain",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "publico": [
+    "todos"
+   ]
   },
   {
    "id": "red-facebook",
@@ -1190,7 +1315,10 @@
    "portada": null,
    "enlace": "https://www.facebook.com/profile.php?id=61583160852641",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "publico": [
+    "todos"
+   ]
   },
   {
    "id": "red-linkedin-empresa",
@@ -1207,7 +1335,12 @@
    "portada": null,
    "enlace": "https://www.linkedin.com/company/dreamnestspain",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "publico": [
+    "colaboradores",
+    "abogados",
+    "inmobiliarias-espana"
+   ]
   },
   {
    "id": "red-linkedin-cassandra",
@@ -1224,7 +1357,10 @@
    "portada": null,
    "enlace": "https://linkedin.com/in/cassandra-rosenblum-7a96b6138/",
    "descargas": [],
-   "aviso": null
+   "aviso": null,
+   "publico": [
+    "todos"
+   ]
   },
   {
    "id": "kit-de-marca",
@@ -1248,7 +1384,48 @@
      "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Signature_Brand_Kit_2026_2027.pdf",
      "peso_mb": 0.3
     }
+   ],
+   "publico": [
+    "equipo"
    ]
+  }
+ ],
+ "publicos": [
+  {
+   "id": "todos",
+   "nombre": "Todos los públicos"
+  },
+  {
+   "id": "clientes-internacionales",
+   "nombre": "Compradores internacionales (cualquier país)"
+  },
+  {
+   "id": "clientes-eeuu",
+   "nombre": "Compradores de EE. UU."
+  },
+  {
+   "id": "realtors-eeuu",
+   "nombre": "Realtors y agentes de EE. UU."
+  },
+  {
+   "id": "inmobiliarias-espana",
+   "nombre": "Inmobiliarias en España"
+  },
+  {
+   "id": "promotoras",
+   "nombre": "Promotoras"
+  },
+  {
+   "id": "abogados",
+   "nombre": "Abogados y asesores"
+  },
+  {
+   "id": "colaboradores",
+   "nombre": "Colaboradores (cualquier país)"
+  },
+  {
+   "id": "equipo",
+   "nombre": "Equipo Dream Nest (interno)"
   }
  ]
 }

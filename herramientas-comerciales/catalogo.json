@@ -119,6 +119,66 @@
    ]
   },
   {
+   "id": "presentacion-webinar",
+   "categoria": "presentaciones",
+   "audiencia": "externa",
+   "titulo": "Webinar «Inmobiliaria sin fronteras: Edición España» · 10 diapositivas",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "Las 10 diapositivas de Cassandra para el webinar con Sandra Aguilar (11 nov 2026): por qué España, vivir o tener, el mapa, las cuatro ciudades (Madrid, Barcelona, Valencia y Málaga), el proceso de compra, la residencia, el ejemplo de 500.000 €, los errores comunes y el siguiente paso.",
+   "para_que": "Webinars y charlas para compradores: una presentación corta que se puede meter dentro de la de otro organizador.",
+   "cuando": "Webinars con Realtors y eventos para compradores. La diapositiva de las cuatro ciudades también va suelta.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-webinar.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_presentacion_webinar_ES.pdf",
+     "peso_mb": 2.3
+    },
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_presentacion_webinar_ES.pptx",
+     "peso_mb": 2.0
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_presentacion_webinar_EN.pdf",
+     "peso_mb": 2.2
+    },
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_presentacion_webinar_EN.pptx",
+     "peso_mb": 2.0
+    },
+    {
+     "idioma": "ES",
+     "formato": "PNG",
+     "etiqueta": "Diapositiva de las cuatro ciudades",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Diapositiva_cuatro_ciudades_ES.png",
+     "peso_mb": 0.8
+    },
+    {
+     "idioma": "EN",
+     "formato": "PNG",
+     "etiqueta": "Diapositiva de las cuatro ciudades",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Diapositiva_cuatro_ciudades_EN.png",
+     "peso_mb": 0.8
+    }
+   ]
+  },
+  {
    "id": "presentacion-20min-en",
    "categoria": "presentaciones",
    "titulo": "Spain, Without the Surprises · 20 min",

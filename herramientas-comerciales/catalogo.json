@@ -461,6 +461,42 @@
    ]
   },
   {
+   "id": "video-webinar",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "publico": [
+    "clientes-eeuu",
+    "clientes-internacionales"
+   ],
+   "titulo": "Inmobiliaria sin fronteras: Edición España · vídeo con voces",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "Las 10 diapositivas del webinar con Sandra Aguilar en vídeo de 7 minutos: conversación entre la voz de Dream Nest y un comprador (voces de Gemini), con las cuatro ciudades y el vídeo de España al final.",
+   "para_que": "Mandarlo a los asistentes del webinar y a compradores que quieren entender por qué España y cómo se compra.",
+   "cuando": "Después de un webinar o de una primera conversación. Mejor mandar el enlace que el archivo.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-webinar.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Webinar_video_ES.mp4",
+     "peso_mb": 32.8
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Webinar_video_EN.mp4",
+     "peso_mb": 33.8
+    }
+   ]
+  },
+  {
    "id": "video-compradores-en",
    "categoria": "videos",
    "audiencia": "externa",

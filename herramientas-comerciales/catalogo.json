@@ -1,0 +1,1467 @@
+{
+ "version": 1,
+ "actualizado": "2026-11-03",
+ "descripcion": "Biblioteca de herramientas comerciales de Dream Nest. La lee el CRM (sección Herramientas). Fuente: Impulsa. Solo se añaden cosas; nunca se renombra ni se borra un archivo ya publicado. Cada herramienta lleva «audiencia»: «externa» (para mandar a clientes y colaboradores) o «interna» (solo para el equipo). Se muestran por separado y nunca se mezclan. Cada herramienta lleva «publico»: a quién va dirigida (lista de ids de «publicos»). Se muestra como etiqueta en cada tarjeta y sirve para filtrar.",
+ "base_archivos": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/",
+ "categorias": [
+  {
+   "id": "regalos",
+   "nombre": "Regalos para contactos",
+   "audiencia": "externa"
+  },
+  {
+   "id": "presentaciones",
+   "nombre": "Presentaciones",
+   "audiencia": "externa"
+  },
+  {
+   "id": "videos",
+   "nombre": "Vídeos",
+   "audiencia": "externa"
+  },
+  {
+   "id": "folletos",
+   "nombre": "Folletos",
+   "audiencia": "externa"
+  },
+  {
+   "id": "juegos",
+   "nombre": "Juegos para eventos",
+   "audiencia": "externa"
+  },
+  {
+   "id": "web",
+   "nombre": "Para compartir por enlace",
+   "audiencia": "externa"
+  },
+  {
+   "id": "redes",
+   "nombre": "Nuestras redes",
+   "audiencia": "externa"
+  },
+  {
+   "id": "ponente",
+   "nombre": "Para la ponente",
+   "audiencia": "interna"
+  },
+  {
+   "id": "bancos",
+   "nombre": "Formularios de bancos",
+   "audiencia": "interna"
+  },
+  {
+   "id": "equipo",
+   "nombre": "Manual y formación",
+   "audiencia": "interna"
+  }
+ ],
+ "herramientas": [
+  {
+   "id": "presentacion-compradores-en",
+   "categoria": "presentaciones",
+   "audiencia": "externa",
+   "titulo": "Buying in Spain, Without the Surprises · for buyers",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "Presentación para compradores internacionales (15 diapositivas): por qué España, vivir o tener, cómo funciona la compra con hipoteca, los números reales de un ejemplo, errores comunes y lo que hacemos por ellos. Termina con el vídeo de España y el QR para empezar su proyecto.",
+   "para_que": "Explicar a un comprador, en una charla o una videollamada, cómo es de verdad comprar en España con hipoteca antes de comprometerse.",
+   "cuando": "Charlas para compradores, webinars y primeras videollamadas. El PDF es para mandarlo después.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-compradores-en.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint (con vídeo de España)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_EN.pptx",
+     "peso_mb": 71.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF ligero",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_EN.pdf",
+     "peso_mb": 2.0
+    }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "clientes-eeuu"
+   ]
+  },
+  {
+   "id": "presentacion-compradores-es",
+   "categoria": "presentaciones",
+   "audiencia": "externa",
+   "titulo": "España, sin sorpresas · para compradores",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "La presentación para compradores en español, tratando de tú (15 diapositivas), con el vídeo de España y el QR para empezar su proyecto.",
+   "para_que": "Lo mismo que la inglesa, para compradores hispanohablantes.",
+   "cuando": "Charlas, webinars y primeras videollamadas en español.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-compradores-es.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint (con vídeo de España)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_ES.pptx",
+     "peso_mb": 71.3
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF ligero",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_ES.pdf",
+     "peso_mb": 2.0
+    }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "clientes-eeuu"
+   ]
+  },
+  {
+   "id": "presentacion-webinar",
+   "categoria": "presentaciones",
+   "audiencia": "externa",
+   "titulo": "Webinar «Inmobiliaria sin fronteras: Edición España» · 10 diapositivas",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "Las 10 diapositivas de Cassandra para el webinar con Sandra Aguilar (11 nov 2026): por qué España, vivir o tener, el mapa, las cuatro ciudades (Madrid, Barcelona, Valencia y Málaga), el proceso de compra, la residencia, el ejemplo de 500.000 €, los errores comunes y el siguiente paso.",
+   "para_que": "Webinars y charlas para compradores: una presentación corta que se puede meter dentro de la de otro organizador.",
+   "cuando": "Webinars con Realtors y eventos para compradores. La diapositiva de las cuatro ciudades también va suelta.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-webinar.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_presentacion_webinar_ES.pdf",
+     "peso_mb": 2.3
+    },
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_presentacion_webinar_ES.pptx",
+     "peso_mb": 2.0
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_presentacion_webinar_EN.pdf",
+     "peso_mb": 2.2
+    },
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_presentacion_webinar_EN.pptx",
+     "peso_mb": 2.0
+    },
+    {
+     "idioma": "ES",
+     "formato": "PNG",
+     "etiqueta": "Diapositiva de las cuatro ciudades",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Diapositiva_cuatro_ciudades_ES.png",
+     "peso_mb": 0.8
+    },
+    {
+     "idioma": "EN",
+     "formato": "PNG",
+     "etiqueta": "Diapositiva de las cuatro ciudades",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Diapositiva_cuatro_ciudades_EN.png",
+     "peso_mb": 0.8
+    }
+   ],
+   "publico": [
+    "clientes-eeuu"
+   ]
+  },
+  {
+   "id": "presentacion-20min-en",
+   "categoria": "presentaciones",
+   "titulo": "Spain, Without the Surprises · 20 min",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "La charla de 20 minutos para agentes inmobiliarios de EE. UU. (Tampa Summit, oct 2026). 20 diapositivas, un clic por diapositiva, con el vídeo de España al final y el QR del regalo (dreamnestspain.com/regalo).",
+   "para_que": "Presentar Dream Nest a agentes y brokers: por qué España, en qué se diferencia el proceso, un ejemplo de números, errores comunes y cómo trabajamos con ellos.",
+   "cuando": "Eventos, webinars y reuniones con inmobiliarias. El PDF es para mandarlo después por email o WhatsApp.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint (con vídeo de España)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_EN.pptx",
+     "peso_mb": 56.8
+    },
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint sin vídeo (ligero, 18 diapositivas)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_EN_sin_video.pptx",
+     "peso_mb": 4.3
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF ligero",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_EN.pdf",
+     "peso_mb": 2.3
+    }
+   ],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-20min-en.jpg",
+   "enlace": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "presentacion-20min-es",
+   "categoria": "presentaciones",
+   "titulo": "España, sin sorpresas · 20 min",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "La misma charla de 20 minutos en español: 20 diapositivas, un clic por diapositiva, vídeo de España al final y QR del regalo.",
+   "para_que": "Presentar Dream Nest a profesionales hispanohablantes: agentes, brokers y colaboradores.",
+   "cuando": "Eventos y reuniones en español. El PDF es para mandarlo después.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint (con vídeo de España)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_ES.pptx",
+     "peso_mb": 57.0
+    },
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint sin vídeo (ligero, 18 diapositivas)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_ES_sin_video.pptx",
+     "peso_mb": 4.5
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF ligero",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_ES.pdf",
+     "peso_mb": 2.4
+    }
+   ],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-20min-es.jpg",
+   "enlace": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "presentacion-larga-en",
+   "categoria": "presentaciones",
+   "titulo": "Spain Without the Surprises · versión larga",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "La presentación completa de Orlando (oct 2026), con residencia, visados, impuestos y la app de colaboradores.",
+   "para_que": "Sesiones largas o formaciones con agentes que quieren todo el detalle.",
+   "cuando": "Cuando hay más de 30 minutos o se trabaja con una inmobiliaria a fondo.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Orlando_Spain_Without_the_Surprises_EN.pptx",
+     "peso_mb": 9.9
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Orlando_Spain_Without_the_Surprises_EN.pdf",
+     "peso_mb": 8.7
+    }
+   ],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-larga-en.jpg",
+   "enlace": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "presentacion-larga-es",
+   "categoria": "presentaciones",
+   "titulo": "España sin sorpresas · versión larga",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "La presentación completa en español, preparada para Tampa (oct 2026).",
+   "para_que": "Sesiones largas o formaciones en español.",
+   "cuando": "Cuando hay tiempo para todo el detalle.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Tampa_Espana_sin_sorpresas_ES.pptx",
+     "peso_mb": 10.3
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Tampa_Espana_sin_sorpresas_ES.pdf",
+     "peso_mb": 9.0
+    }
+   ],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-larga-es.jpg",
+   "enlace": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "diapositiva-qr-regalo",
+   "categoria": "presentaciones",
+   "titulo": "Diapositiva con el QR del regalo",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "Una diapositiva suelta con el QR que lleva a dreamnestspain.com/regalo (nombre y email, y llega el regalo por correo). También en imagen para enseñarla desde el móvil.",
+   "para_que": "Recoger contactos en cualquier charla o stand: se pone al final de cualquier presentación.",
+   "cuando": "Siempre que haya público delante. La imagen PNG sirve para enseñarla desde el móvil.",
+   "enlace": "https://dreamnestspain.com/regalo",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Diapositiva_QR_regalo_EN.pptx",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "ES",
+     "formato": "PPTX",
+     "etiqueta": "PowerPoint",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Diapositiva_QR_regalo_ES.pptx",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PNG",
+     "etiqueta": "Imagen",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/QR_regalo_EN.png",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "ES",
+     "formato": "PNG",
+     "etiqueta": "Imagen",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/QR_regalo_ES.png",
+     "peso_mb": 0.1
+    }
+   ],
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/diapositiva-qr-regalo.jpg",
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu",
+    "clientes-eeuu"
+   ]
+  },
+  {
+   "id": "presentacion-colaboradores-es",
+   "categoria": "presentaciones",
+   "titulo": "Presentación para colaboradores",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "La presentación de Dream Nest para inmobiliarias y profesionales que quieren colaborar con nosotras, en PDF y en vídeo.",
+   "para_que": "Explicar a un colaborador nuevo cómo trabajamos juntos.",
+   "cuando": "Después del primer contacto con un agente o una inmobiliaria.",
+   "portada": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-colaboradores-es.jpg",
+   "enlace": null,
+   "aviso": null,
+   "alojado_en": "CRM (app-clientes/media)",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-colaboradores-es.pdf",
+     "peso_mb": null
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-colaboradores-es.mp4",
+     "peso_mb": null
+    }
+   ],
+   "audiencia": "externa",
+   "publico": [
+    "colaboradores",
+    "inmobiliarias-espana"
+   ]
+  },
+  {
+   "id": "presentacion-colaboradores-en",
+   "categoria": "presentaciones",
+   "titulo": "Partner presentation",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "La presentación de Dream Nest para inmobiliarias y profesionales que quieren colaborar con nosotras, en PDF y en vídeo.",
+   "para_que": "Explicar a un colaborador nuevo cómo trabajamos juntos.",
+   "cuando": "Después del primer contacto con un agente o una inmobiliaria.",
+   "portada": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-partners-en.jpg",
+   "enlace": null,
+   "aviso": null,
+   "alojado_en": "CRM (app-clientes/media)",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-partners-en.pdf",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://app.dreamnestspain.com/app-clientes/media/dream-nest-partners-en.mp4",
+     "peso_mb": null
+    }
+   ],
+   "audiencia": "externa",
+   "publico": [
+    "colaboradores"
+   ]
+  },
+  {
+   "id": "video-webinar",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "publico": [
+    "clientes-eeuu",
+    "clientes-internacionales"
+   ],
+   "titulo": "Inmobiliaria sin fronteras: Edición España · vídeo con voces",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "Las 10 diapositivas del webinar con Sandra Aguilar en vídeo de 7 minutos: conversación entre la voz de Dream Nest y un comprador (voces de Gemini), con las cuatro ciudades y el vídeo de España al final.",
+   "para_que": "Mandarlo a los asistentes del webinar y a compradores que quieren entender por qué España y cómo se compra.",
+   "cuando": "Después de un webinar o de una primera conversación. Mejor mandar el enlace que el archivo.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-webinar.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Webinar_video_ES.mp4",
+     "peso_mb": 32.8
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Webinar_video_EN.mp4",
+     "peso_mb": 33.8
+    }
+   ]
+  },
+  {
+   "id": "video-compradores-en",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "titulo": "Buying in Spain, Without the Surprises · vídeo para compradores",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "La presentación para compradores convertida en vídeo de 8 minutos: conversación entre la voz de Dream Nest y un comprador, con el vídeo nuevo de España al final.",
+   "para_que": "Que un comprador entienda cómo es de verdad comprar en España con hipoteca antes de la primera llamada.",
+   "cuando": "Al primer contacto con un comprador, o después de una charla. Mejor mandar el enlace que el archivo.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-compradores-en.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_video_EN.mp4",
+     "peso_mb": 38.5
+    }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "clientes-eeuu"
+   ]
+  },
+  {
+   "id": "video-compradores-es",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "titulo": "España, sin sorpresas · vídeo para compradores",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "El vídeo para compradores en español (8 minutos), en formato conversación y tratando de tú.",
+   "para_que": "Lo mismo que el inglés, para compradores hispanohablantes.",
+   "cuando": "Al primer contacto con un comprador hispanohablante.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/presentacion-compradores-es.jpg",
+   "enlace": null,
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Compradores_video_ES.mp4",
+     "peso_mb": 37.4
+    }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "clientes-eeuu"
+   ]
+  },
+  {
+   "id": "video-20min-en",
+   "categoria": "videos",
+   "titulo": "Spain, Without the Surprises · vídeo narrado",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "La charla de 20 minutos convertida en vídeo de 12 minutos: conversación entre la voz de Dream Nest y un agente, con el vídeo de España al final.",
+   "para_que": "Que quien no estuvo en la charla la vea entera. Es el vídeo del regalo.",
+   "cuando": "Después de un evento, o para presentar Dream Nest a un agente nuevo. Pesa unos 56 MB: mejor mandar el enlace de la página del regalo que el archivo.",
+   "enlace": "https://dreamnestspain.com/regalo#video",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_video_EN.mp4",
+     "peso_mb": 56.3
+    }
+   ],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-20min-en.jpg",
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "video-20min-es",
+   "categoria": "videos",
+   "titulo": "España, sin sorpresas · vídeo narrado",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "El vídeo de la charla en español (12 minutos), en formato conversación.",
+   "para_que": "Lo mismo que el inglés, para público hispanohablante.",
+   "cuando": "Después de un evento o con un colaborador nuevo.",
+   "enlace": "https://dreamnestspain.com/regalo#video",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_video_ES.mp4",
+     "peso_mb": 57.0
+    }
+   ],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-20min-es.jpg",
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "video-presentadora-en",
+   "categoria": "videos",
+   "titulo": "Spain Without the Surprises · vídeo con presentadora",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "La versión larga de Orlando narrada por la voz de Dream Nest.",
+   "para_que": "Formación completa para agentes que quieren todo el detalle.",
+   "cuando": "Para colaboradores que ya se interesan de verdad.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Orlando_presentadora_EN.mp4",
+     "peso_mb": 61.3
+    }
+   ],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-presentadora-en.jpg",
+   "enlace": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "video-presentadora-es",
+   "categoria": "videos",
+   "titulo": "España sin sorpresas · vídeo con presentadora",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "La versión larga en español, narrada.",
+   "para_que": "Formación completa en español.",
+   "cuando": "Para colaboradores hispanohablantes interesados.",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Tampa_presentadora_ES.mp4",
+     "peso_mb": 65.0
+    }
+   ],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: incluye un ejemplo ilustrativo con tipo y cuota.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-presentadora-es.jpg",
+   "enlace": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "video-espana-2-minutos",
+   "categoria": "videos",
+   "titulo": "Un viaje por España en 2 minutos",
+   "idiomas": [
+    "Sin voz"
+   ],
+   "que_es": "Vídeo de imágenes de España, sin texto hablado (1:56).",
+   "para_que": "Despertar las ganas de España: abre o cierra una charla, o acompaña un mensaje a un comprador.",
+   "cuando": "Siempre que se quiera emocionar antes de hablar de números.",
+   "enlace": "https://dreamnestspain.com/assets/social/2026-10-29-espana-horizontal.mp4",
+   "descargas": [
+    {
+     "idioma": "—",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Espana_en_2_minutos.mp4",
+     "peso_mb": 49.5
+    }
+   ],
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/video-espana-2-minutos.jpg",
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "todos"
+   ]
+  },
+  {
+   "id": "folleto-servicios",
+   "categoria": "folletos",
+   "titulo": "Folleto de servicios",
+   "idiomas": [
+    "EN",
+    "ES",
+    "FR",
+    "DE",
+    "NL",
+    "IT",
+    "RO"
+   ],
+   "que_es": "El folleto editorial A4 a doble cara de Dream Nest, en 7 idiomas, con la pieza de errores comunes.",
+   "para_que": "Explicar qué hace Dream Nest a un comprador o a un colaborador en una sola hoja.",
+   "cuando": "Para mandar por email o WhatsApp, o imprimir para eventos. El enlace abre la versión web.",
+   "enlace": "https://dreamnestspain.com/folleto",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-en.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-es.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "FR",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-fr.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "DE",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-de.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "NL",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-nl.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "IT",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-it.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "RO",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-ro.pdf",
+     "peso_mb": 0.7
+    }
+   ],
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/folleto-servicios.jpg",
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales",
+    "colaboradores"
+   ]
+  },
+  {
+   "id": "web-regalo",
+   "categoria": "regalos",
+   "titulo": "El regalo de Dream Nest · «un viaje por España»",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "Lo que reciben los contactos de eventos y redes: dejan nombre y email en dreamnestspain.com/regalo y les llega un email tipo tarjeta de embarque con el mapa interactivo de España, el vídeo de la presentación y el folleto.",
+   "para_que": "Captar contactos con algo útil y bonito, sin pedirles nada más que el nombre y el email.",
+   "cuando": "Después de cualquier charla, stand o conversación. También se pueden mandar las piezas sueltas con los botones de descarga.",
+   "enlace": "https://dreamnestspain.com/regalo",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-regalo.jpg",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Vídeo de la presentación",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_video_EN.mp4",
+     "peso_mb": 56.3
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo de la presentación",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_20min_video_ES.mp4",
+     "peso_mb": 57.0
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "Folleto",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-en.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "Folleto",
+     "url": "https://dreamnestspain.com/assets/folleto/dream-nest-folleto-es.pdf",
+     "peso_mb": 0.6
+    },
+    {
+     "idioma": "EN",
+     "formato": "PNG",
+     "etiqueta": "QR del regalo (imagen)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/QR_regalo_EN.png",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "ES",
+     "formato": "PNG",
+     "etiqueta": "QR del regalo (imagen)",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/QR_regalo_ES.png",
+     "peso_mb": 0.1
+    }
+   ],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu",
+    "clientes-eeuu"
+   ]
+  },
+  {
+   "id": "web-spain-explorer",
+   "categoria": "web",
+   "titulo": "Spain Explorer · el mapa de España",
+   "idiomas": [
+    "7 idiomas"
+   ],
+   "que_es": "Mapa interactivo con cada provincia: foto real, clima y estilo de vida.",
+   "para_que": "Ayudar a un comprador a decidir dónde, antes de hablar de hipoteca.",
+   "cuando": "Cuando el cliente aún no sabe en qué zona comprar.",
+   "enlace": "https://dreamnestspain.com/spain-explorer",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-spain-explorer.jpg",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "todos"
+   ]
+  },
+  {
+   "id": "web-errores-comunes",
+   "categoria": "web",
+   "titulo": "Would you let your client do this? · errores comunes",
+   "idiomas": [
+    "7 idiomas"
+   ],
+   "que_es": "La página de errores comunes al comprar en España.",
+   "para_que": "Pieza para agentes: demuestra criterio sin vender.",
+   "cuando": "En cualquier folleto, presentación o campaña a colaboradores.",
+   "enlace": "https://dreamnestspain.com/common-mistakes",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-errores-comunes.jpg",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "colaboradores",
+    "realtors-eeuu",
+    "inmobiliarias-espana"
+   ]
+  },
+  {
+   "id": "web-juegos",
+   "categoria": "web",
+   "titulo": "Juegos de Dream Nest",
+   "idiomas": [
+    "7 idiomas"
+   ],
+   "que_es": "Juegos en directo para eventos y formaciones, por tipo de público.",
+   "para_que": "Hacer participar a la sala en una charla.",
+   "cuando": "Eventos, formaciones con inmobiliarias y aulas.",
+   "enlace": "https://dreamnestspain.com/games",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-juegos.jpg",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "colaboradores",
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "web-international-buyer-report",
+   "categoria": "web",
+   "titulo": "International Buyer Report",
+   "idiomas": [
+    "7 idiomas"
+   ],
+   "que_es": "El informe gratuito para compradores internacionales.",
+   "para_que": "Dar valor antes de vender y conseguir contactos.",
+   "cuando": "Para compradores que aún están informándose.",
+   "enlace": "https://dreamnestspain.com/research",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-international-buyer-report.jpg",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales"
+   ]
+  },
+  {
+   "id": "web-costes-compra",
+   "categoria": "web",
+   "titulo": "Costes de comprar en España",
+   "idiomas": [
+    "7 idiomas"
+   ],
+   "que_es": "Guía de los costes de compra por comunidad autónoma.",
+   "para_que": "Que el comprador sepa cuánto dinero necesita de verdad.",
+   "cuando": "Cuando preguntan «¿cuánto necesito tener ahorrado?».",
+   "enlace": "https://dreamnestspain.com/buying-costs-spain",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-costes-compra.jpg",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales"
+   ]
+  },
+  {
+   "id": "web-como-funciona",
+   "categoria": "web",
+   "titulo": "Cómo funciona Dream Nest",
+   "idiomas": [
+    "7 idiomas"
+   ],
+   "que_es": "La página que explica el proceso paso a paso.",
+   "para_que": "Explicar cómo trabajamos a un comprador nuevo.",
+   "cuando": "Primer contacto con un comprador.",
+   "enlace": "https://dreamnestspain.com/how-it-works",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-como-funciona.jpg",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales"
+   ]
+  },
+  {
+   "id": "web-formulario",
+   "categoria": "web",
+   "titulo": "Empezar el proyecto · formulario",
+   "idiomas": [
+    "7 idiomas"
+   ],
+   "que_es": "El formulario oficial para empezar el caso de un comprador.",
+   "para_que": "Pasar de la conversación al caso real, con su consentimiento.",
+   "cuando": "Cuando el cliente quiere empezar.",
+   "enlace": "https://form.dreamnestspain.com",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-formulario.jpg",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "clientes-internacionales"
+   ]
+  },
+  {
+   "id": "guiones-ponente",
+   "categoria": "ponente",
+   "titulo": "Guiones de la charla",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "El guion completo de la presentación larga, en Word y PDF.",
+   "para_que": "Preparar la charla o que la dé otra persona del equipo.",
+   "cuando": "Antes de cada evento.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "DOCX",
+     "etiqueta": "Word",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Guion_Spain_Without_the_Surprises_EN.docx",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Guion_Spain_Without_the_Surprises_EN.pdf",
+     "peso_mb": 0.2
+    },
+    {
+     "idioma": "ES",
+     "formato": "DOCX",
+     "etiqueta": "Word",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Guion_Espana_sin_sorpresas_Tampa_ES.docx",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Guion_Espana_sin_sorpresas_Tampa_ES.pdf",
+     "peso_mb": 0.2
+    }
+   ],
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/guiones-ponente.jpg",
+   "enlace": null,
+   "aviso": null,
+   "audiencia": "interna",
+   "publico": [
+    "equipo"
+   ]
+  },
+  {
+   "id": "tarjetas-ponente",
+   "categoria": "ponente",
+   "titulo": "Tarjetas de apoyo para la ponente",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "Tarjetas para tener en la mano durante la charla, con las ideas clave de cada diapositiva.",
+   "para_que": "Dar la charla sin leer.",
+   "cuando": "En el escenario.",
+   "descargas": [
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Tarjetas_Orlando_EN.pdf",
+     "peso_mb": 2.9
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Tarjetas_Tampa_ES.pdf",
+     "peso_mb": 3.0
+    }
+   ],
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/tarjetas-ponente.jpg",
+   "enlace": null,
+   "aviso": null,
+   "audiencia": "interna",
+   "publico": [
+    "equipo"
+   ]
+  },
+  {
+   "id": "juego-expect-the-unexpected",
+   "categoria": "juegos",
+   "titulo": "Expect the Unexpected · juego en directo",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "Juego en directo para la sala: el público responde desde el móvil preguntas sobre comprar en España siendo extranjero.",
+   "para_que": "Romper el hielo en una charla y enseñar diferencias reales sin dar una clase.",
+   "cuando": "Eventos y formaciones con agentes internacionales.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/juego-expect-the-unexpected.jpg",
+   "enlace": "https://dreamnestspain.com/games/live?pack=internacional",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu",
+    "colaboradores"
+   ]
+  },
+  {
+   "id": "juego-myth-or-fact",
+   "categoria": "juegos",
+   "titulo": "Myth or Fact: Spain Edition",
+   "idiomas": [
+    "EN"
+   ],
+   "que_es": "Juego de mito o realidad sobre comprar y financiar en España, usado en Orlando.",
+   "para_que": "Hacer participar a la sala y desmontar ideas falsas.",
+   "cuando": "Charlas cortas con agentes de EE. UU.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/juego-myth-or-fact.jpg",
+   "enlace": "https://dreamnestspain.com/orlando/game",
+   "descargas": [],
+   "aviso": null,
+   "audiencia": "externa",
+   "publico": [
+    "realtors-eeuu"
+   ]
+  },
+  {
+   "id": "formularios-bancos",
+   "categoria": "bancos",
+   "audiencia": "interna",
+   "titulo": "Formularios de bancos rellenables",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "Los formularios de solicitud de los bancos en PDF rellenable.",
+   "para_que": "Preparar la documentación del cliente para cada banco sin volver a pedirla.",
+   "cuando": "Al presentar un caso a ese banco.",
+   "portada": null,
+   "enlace": null,
+   "aviso": null,
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "Abanca · solicitud",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/ABANCA_RELLENABLE.pdf",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "Abanca · otras operaciones",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/Solicitud_Abanca_Otras_Ops_RELLENABLE.pdf",
+     "peso_mb": 0.5
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "CaixaBank · anexo 2",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/CaixaBank_Anexo2_RELLENABLE.pdf",
+     "peso_mb": 0.0
+    },
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "Sabadell · ES",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/Sabadell_ES_RELLENABLE.pdf",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "Sabadell · EN",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/Sabadell_EN_RELLENABLE.pdf",
+     "peso_mb": 0.1
+    },
+    {
+     "idioma": "EN",
+     "formato": "PDF",
+     "etiqueta": "MAF · inglés",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/MAF%20ingles.pdf%20editable%20%28007%29.pdf",
+     "peso_mb": 12.8
+    }
+   ],
+   "publico": [
+    "equipo"
+   ]
+  },
+  {
+   "id": "reels-musica",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "titulo": "Reels con música para clientes y colaboradores",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "8 reels verticales cortos con música: 2 para clientes (antes de empezar, la app) y 2 para colaboradores (errores comunes, la operación), en español e inglés.",
+   "para_que": "Mandar por WhatsApp o subir a redes para explicar algo en segundos.",
+   "cuando": "Primer contacto con un cliente o un colaborador.",
+   "portada": null,
+   "enlace": null,
+   "aviso": null,
+   "alojado_en": "CRM (manual/reels)",
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Clientes · antes de empezar",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_cliente-antes_es_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Clientes · antes de empezar",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_cliente-antes_en_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Clientes · la app",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_cliente-app_es_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Clientes · la app",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_cliente-app_en_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Colaboradores · errores comunes",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-errores_es_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Colaboradores · errores comunes",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-errores_en_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Colaboradores · la operación",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-operacion_es_musica.mp4",
+     "peso_mb": null
+    },
+    {
+     "idioma": "EN",
+     "formato": "MP4",
+     "etiqueta": "Colaboradores · la operación",
+     "url": "https://app.dreamnestspain.com/manual/reels/DreamNest_colaborador-operacion_en_musica.mp4",
+     "peso_mb": null
+    }
+   ],
+   "publico": [
+    "clientes-internacionales",
+    "colaboradores"
+   ]
+  },
+  {
+   "id": "web-simulador-hipoteca-alquiler",
+   "categoria": "web",
+   "audiencia": "externa",
+   "titulo": "Simulador «Hipoteca vs alquiler» para promociones",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "Simulador que compara lo que costaría comprar una vivienda de una promoción con lo que se paga de alquiler.",
+   "para_que": "Trabajar con inmobiliarias y promotoras: enseñar al comprador si comprar tiene sentido frente a alquilar.",
+   "cuando": "Con agencias y promotoras, para una promoción concreta.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/web-simulador-hipoteca-alquiler.jpg",
+   "enlace": "https://dream-nest-simulator.vercel.app/",
+   "descargas": [],
+   "aviso": "⚠️ LCCI/Orden EHA/2899/2011 — verificar antes de publicar: muestra cuota mensual y compara con el alquiler.",
+   "publico": [
+    "promotoras",
+    "inmobiliarias-espana"
+   ]
+  },
+  {
+   "id": "manual-equipo",
+   "categoria": "equipo",
+   "audiencia": "interna",
+   "titulo": "Manual del CRM y vídeos de formación",
+   "idiomas": [
+    "ES",
+    "EN"
+   ],
+   "que_es": "El manual del sistema de Dream Nest con vídeos de formación, zona por zona.",
+   "para_que": "Aprender a usar el CRM o resolver una duda sin preguntar.",
+   "cuando": "Siempre que haga falta; se actualiza cada lunes.",
+   "portada": null,
+   "enlace": "https://app.dreamnestspain.com/manual.html",
+   "descargas": [],
+   "aviso": null,
+   "alojado_en": "CRM",
+   "publico": [
+    "equipo"
+   ]
+  },
+  {
+   "id": "video-research-es",
+   "categoria": "videos",
+   "audiencia": "externa",
+   "titulo": "International Buyer Report · vídeo con Cassandra",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "Cassandra presenta el informe gratuito para compradores internacionales.",
+   "para_que": "Llevar al comprador al informe y al primer contacto.",
+   "cuando": "Compradores que se están informando.",
+   "portada": null,
+   "enlace": "https://dreamnestspain.com/research",
+   "aviso": null,
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "MP4",
+     "etiqueta": "Vídeo MP4",
+     "url": "https://dreamnestspain.com/assets/social/2026-10-21-research-es.mp4",
+     "peso_mb": 47.0
+    }
+   ],
+   "publico": [
+    "clientes-internacionales"
+   ]
+  },
+  {
+   "id": "red-instagram",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "Instagram · @dreamnestspain",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "El día a día de Dream Nest y de Cassandra.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://instagram.com/dreamnestspain",
+   "descargas": [],
+   "aviso": null,
+   "publico": [
+    "todos"
+   ]
+  },
+  {
+   "id": "red-youtube",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "YouTube · Dream Nest Spain",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "El canal de vídeos de Dream Nest.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://www.youtube.com/@DreamNestSpain",
+   "descargas": [],
+   "aviso": null,
+   "publico": [
+    "todos"
+   ]
+  },
+  {
+   "id": "red-facebook",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "Facebook · Dream Nest Spain",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "La página de Facebook de Dream Nest.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://www.facebook.com/profile.php?id=61583160852641",
+   "descargas": [],
+   "aviso": null,
+   "publico": [
+    "todos"
+   ]
+  },
+  {
+   "id": "red-linkedin-empresa",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "LinkedIn · Dream Nest Spain",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "La página de empresa en LinkedIn, para profesionales.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://www.linkedin.com/company/dreamnestspain",
+   "descargas": [],
+   "aviso": null,
+   "publico": [
+    "colaboradores",
+    "abogados",
+    "inmobiliarias-espana"
+   ]
+  },
+  {
+   "id": "red-linkedin-cassandra",
+   "categoria": "redes",
+   "audiencia": "externa",
+   "titulo": "LinkedIn · Cassandra Lyn Rosenblum",
+   "idiomas": [
+    "EN",
+    "ES"
+   ],
+   "que_es": "El perfil de Cassandra en LinkedIn.",
+   "para_que": "Que nos sigan después de una conversación o un evento.",
+   "cuando": "Al final de cualquier mensaje o email.",
+   "portada": null,
+   "enlace": "https://linkedin.com/in/cassandra-rosenblum-7a96b6138/",
+   "descargas": [],
+   "aviso": null,
+   "publico": [
+    "todos"
+   ]
+  },
+  {
+   "id": "kit-de-marca",
+   "categoria": "equipo",
+   "audiencia": "interna",
+   "titulo": "Kit de marca Dream Nest 2026-2027",
+   "idiomas": [
+    "ES"
+   ],
+   "que_es": "Colores, tipografías, logos y tono de Dream Nest.",
+   "para_que": "Que todo lo que hagamos (emails, presentaciones, redes) se vea igual.",
+   "cuando": "Antes de preparar cualquier material.",
+   "portada": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/portadas/kit-de-marca.jpg",
+   "enlace": null,
+   "aviso": null,
+   "descargas": [
+    {
+     "idioma": "ES",
+     "formato": "PDF",
+     "etiqueta": "PDF",
+     "url": "https://raw.githubusercontent.com/cassandra-rosenblum/dreamnest-imagenes/main/herramientas-comerciales/archivos/Dream_Nest_Signature_Brand_Kit_2026_2027.pdf",
+     "peso_mb": 0.3
+    }
+   ],
+   "publico": [
+    "equipo"
+   ]
+  }
+ ],
+ "publicos": [
+  {
+   "id": "todos",
+   "nombre": "Todos los públicos"
+  },
+  {
+   "id": "clientes-internacionales",
+   "nombre": "Compradores internacionales (cualquier país)"
+  },
+  {
+   "id": "clientes-eeuu",
+   "nombre": "Compradores de EE. UU."
+  },
+  {
+   "id": "realtors-eeuu",
+   "nombre": "Realtors y agentes de EE. UU."
+  },
+  {
+   "id": "inmobiliarias-espana",
+   "nombre": "Inmobiliarias en España"
+  },
+  {
+   "id": "promotoras",
+   "nombre": "Promotoras"
+  },
+  {
+   "id": "abogados",
+   "nombre": "Abogados y asesores"
+  },
+  {
+   "id": "colaboradores",
+   "nombre": "Colaboradores (cualquier país)"
+  },
+  {
+   "id": "equipo",
+   "nombre": "Equipo Dream Nest (interno)"
+  }
+ ]
+}
